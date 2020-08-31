@@ -1,7 +1,7 @@
 # Kurzdokumentation zu 2048
 ## Funktionsweise des Spiels
 Dieses Projekt stellt das Spiel 2048 mit verschiedenen KI-Varianten sowie Highscore-Liste und einer Speicherfunktion dar.
-Zum Spielen einfach die .jar-Datei (sieh GitHub => Releases) öffnen. Bitte achten Sie darauf, die neueste Version von Java SE installieren!
+Zum Spielen einfach die .jar-Datei (sieh GitHub => Releases) öffnen. Bitte achten Sie darauf, die neueste Version von Java SE zu installieren!
 Während des Spiels werden in dem Ordner, in dem auch die .jar-Datei platziert wurde, die beiden Dateien „savegame.tmp“ sowie „Scores“ erstellt. Erstere enthält den aktuellen Spielstand, wenn das Spiel gespeichert wurde, letztere die aktuelle Highscore-Tabelle.
 
 ## Aufbau des Projekts
